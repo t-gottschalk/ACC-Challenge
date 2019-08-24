@@ -1,0 +1,78 @@
+[
+    {
+      "id": 1,
+      "name": "Louisville",
+      "image": "./assets/images/louisville.png"
+    },
+    {
+      "id": 2,
+      "name": "Georgia Tech",
+      "image": "./assets/images/gt.png"
+    },
+    {
+      "id": 3,
+      "name": "Duke",
+      "image": "./assets/images/duke.png"
+    },
+    {
+      "id": 4,
+      "name": "Miami",
+      "image": "./assets/images/miami.png"
+    },
+    {
+      "id": 5,
+      "name": "Pitt",
+      "image": "./assets/images/pitt.png"
+    },
+    {
+      "id": 6,
+      "name": "UVA",
+      "image": "./assets/images/uva.png"
+    },
+    {
+      "id": 7,
+      "name": "Boston College",
+      "image": "./assets/images/bc.png"
+    },
+    {
+      "id": 8,
+      "name": "Clemson",
+      "image": "./assets/images/clemson.png"
+    },
+    {
+      "id": 9,
+      "name": "FSU",
+      "image": "./assets/images/fsu.png"
+    },
+    {
+      "id": 10,
+      "name": "Wake Forest",
+      "image": "./assets/images/wakeforest.png"
+    },
+    {
+      "id": 11,
+      "name": "NC State",
+      "image": "./assets/images/ncstate.png"
+    },
+    {
+      "id": 12,
+      "name": "Notre Dame",
+      "image": "./assets/images/notredame.png"
+    },
+    {
+      "id": 13,
+      "name": "UNC",
+      "image": "./assets/images/unc.png"
+    },
+        {
+      "id": 14,
+      "name": "VT",
+      "image": "./assets/images/vt.png"
+    },
+    {
+      "id": 15,
+      "name": "Syracuse",
+      "image": "./assets/images/syracuse.png"
+    }
+  ]
+  

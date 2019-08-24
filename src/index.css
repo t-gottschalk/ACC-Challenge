@@ -1,0 +1,18 @@
+/*Colors:
+	Active:
+		#7db9e8
+	Inactive:
+		#1e5799
+		#2989d8
+*/
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: auto;
+  font-family: sans-serif;
+  text-align: center;
+	background-color: #7db9e8;
+	background: linear-gradient(to bottom, #7db9e8, white);
+}
