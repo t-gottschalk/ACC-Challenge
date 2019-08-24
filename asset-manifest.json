@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/acc-challenge/static/css/main.bea9d8e1.chunk.css",
+    "main.js": "/acc-challenge/static/js/main.01d0f3f5.chunk.js",
+    "main.js.map": "/acc-challenge/static/js/main.01d0f3f5.chunk.js.map",
+    "runtime~main.js": "/acc-challenge/static/js/runtime~main.6dead8f2.js",
+    "runtime~main.js.map": "/acc-challenge/static/js/runtime~main.6dead8f2.js.map",
+    "static/js/2.e7e74e6c.chunk.js": "/acc-challenge/static/js/2.e7e74e6c.chunk.js",
+    "static/js/2.e7e74e6c.chunk.js.map": "/acc-challenge/static/js/2.e7e74e6c.chunk.js.map",
+    "index.html": "/acc-challenge/index.html",
+    "precache-manifest.367c13ce2460a0be4bda668fec1752c6.js": "/acc-challenge/precache-manifest.367c13ce2460a0be4bda668fec1752c6.js",
+    "service-worker.js": "/acc-challenge/service-worker.js",
+    "static/css/main.bea9d8e1.chunk.css.map": "/acc-challenge/static/css/main.bea9d8e1.chunk.css.map"
+  }
+}
